@@ -1,0 +1,4772 @@
+[
+  {
+    "name": "國立華僑高級中等學校",
+    "stage": "high school",
+    "code": "10301",
+    "city": "新北市"
+  },
+  {
+    "name": "私立淡江高中",
+    "stage": "high school",
+    "code": "11301",
+    "city": "新北市"
+  },
+  {
+    "name": "私立康橋高中",
+    "stage": "high school",
+    "code": "11302",
+    "city": "新北市"
+  },
+  {
+    "name": "私立金陵女中",
+    "stage": "high school",
+    "code": "11306",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市裕德高級中等學校",
+    "stage": "high school",
+    "code": "11307",
+    "city": "新北市"
+  },
+  {
+    "name": "財團法人南山高中",
+    "stage": "high school",
+    "code": "11309",
+    "city": "新北市"
+  },
+  {
+    "name": "財團法人恆毅高中",
+    "stage": "high school",
+    "code": "11310",
+    "city": "新北市"
+  },
+  {
+    "name": "私立聖心女中",
+    "stage": "high school",
+    "code": "11311",
+    "city": "新北市"
+  },
+  {
+    "name": "私立崇義高中",
+    "stage": "high school",
+    "code": "11312",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市福瑞斯特高中",
+    "stage": "high school",
+    "code": "11314",
+    "city": "新北市"
+  },
+  {
+    "name": "私立東海高中",
+    "stage": "high school",
+    "code": "11315",
+    "city": "新北市"
+  },
+  {
+    "name": "私立格致高中",
+    "stage": "high school",
+    "code": "11316",
+    "city": "新北市"
+  },
+  {
+    "name": "私立醒吾高中",
+    "stage": "high school",
+    "code": "11317",
+    "city": "新北市"
+  },
+  {
+    "name": "私立徐匯高中",
+    "stage": "high school",
+    "code": "11318",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市崇光高中",
+    "stage": "high school",
+    "code": "11322",
+    "city": "新北市"
+  },
+  {
+    "name": "私立光仁高中",
+    "stage": "high school",
+    "code": "11323",
+    "city": "新北市"
+  },
+  {
+    "name": "私立竹林高中",
+    "stage": "high school",
+    "code": "11324",
+    "city": "新北市"
+  },
+  {
+    "name": "私立中信高中",
+    "stage": "high school",
+    "code": "11325",
+    "city": "新北市"
+  },
+  {
+    "name": "財團法人辭修高中",
+    "stage": "high school",
+    "code": "11329",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市林口康橋國際高中",
+    "stage": "high school",
+    "code": "11330",
+    "city": "新北市"
+  },
+  {
+    "name": "私立時雨高中",
+    "stage": "high school",
+    "code": "11399",
+    "city": "新北市"
+  },
+  {
+    "name": "私立樹人家商",
+    "stage": "high school",
+    "code": "11405",
+    "city": "新北市"
+  },
+  {
+    "name": "私立復興商工",
+    "stage": "high school",
+    "code": "11407",
+    "city": "新北市"
+  },
+  {
+    "name": "私立南強工商",
+    "stage": "high school",
+    "code": "11408",
+    "city": "新北市"
+  },
+  {
+    "name": "私立穀保家商",
+    "stage": "high school",
+    "code": "11413",
+    "city": "新北市"
+  },
+  {
+    "name": "私立智光商工",
+    "stage": "high school",
+    "code": "11420",
+    "city": "新北市"
+  },
+  {
+    "name": "私立能仁家商",
+    "stage": "high school",
+    "code": "11426",
+    "city": "新北市"
+  },
+  {
+    "name": "私立豫章工商",
+    "stage": "high school",
+    "code": "11427",
+    "city": "新北市"
+  },
+  {
+    "name": "私立莊敬工家",
+    "stage": "high school",
+    "code": "11431",
+    "city": "新北市"
+  },
+  {
+    "name": "私立中華商海",
+    "stage": "high school",
+    "code": "11432",
+    "city": "新北市"
+  },
+  {
+    "name": "市立泰山高中",
+    "stage": "high school",
+    "code": "13303",
+    "city": "新北市"
+  },
+  {
+    "name": "市立板橋高中",
+    "stage": "high school",
+    "code": "13304",
+    "city": "新北市"
+  },
+  {
+    "name": "市立新店高中",
+    "stage": "high school",
+    "code": "13335",
+    "city": "新北市"
+  },
+  {
+    "name": "市立中和高中",
+    "stage": "high school",
+    "code": "13336",
+    "city": "新北市"
+  },
+  {
+    "name": "市立新莊高中",
+    "stage": "high school",
+    "code": "13337",
+    "city": "新北市"
+  },
+  {
+    "name": "市立新北高中",
+    "stage": "high school",
+    "code": "13338",
+    "city": "新北市"
+  },
+  {
+    "name": "市立林口高中",
+    "stage": "high school",
+    "code": "13339",
+    "city": "新北市"
+  },
+  {
+    "name": "市立瑞芳高工",
+    "stage": "high school",
+    "code": "13402",
+    "city": "新北市"
+  },
+  {
+    "name": "市立三重商工",
+    "stage": "high school",
+    "code": "13430",
+    "city": "新北市"
+  },
+  {
+    "name": "市立新北高工",
+    "stage": "high school",
+    "code": "13433",
+    "city": "新北市"
+  },
+  {
+    "name": "市立淡水商工",
+    "stage": "high school",
+    "code": "13434",
+    "city": "新北市"
+  },
+  {
+    "name": "市立海山高中",
+    "stage": "high school",
+    "code": "14302",
+    "city": "新北市"
+  },
+  {
+    "name": "市立三重高中",
+    "stage": "high school",
+    "code": "14311",
+    "city": "新北市"
+  },
+  {
+    "name": "市立永平高中",
+    "stage": "high school",
+    "code": "14315",
+    "city": "新北市"
+  },
+  {
+    "name": "市立樹林高中",
+    "stage": "high school",
+    "code": "14322",
+    "city": "新北市"
+  },
+  {
+    "name": "市立明德高中",
+    "stage": "high school",
+    "code": "14326",
+    "city": "新北市"
+  },
+  {
+    "name": "市立秀峰高中",
+    "stage": "high school",
+    "code": "14332",
+    "city": "新北市"
+  },
+  {
+    "name": "市立金山高中",
+    "stage": "high school",
+    "code": "14338",
+    "city": "新北市"
+  },
+  {
+    "name": "市立安康高中",
+    "stage": "high school",
+    "code": "14343",
+    "city": "新北市"
+  },
+  {
+    "name": "市立雙溪高中",
+    "stage": "high school",
+    "code": "14347",
+    "city": "新北市"
+  },
+  {
+    "name": "市立石碇高中",
+    "stage": "high school",
+    "code": "14348",
+    "city": "新北市"
+  },
+  {
+    "name": "市立丹鳳高中",
+    "stage": "high school",
+    "code": "14353",
+    "city": "新北市"
+  },
+  {
+    "name": "市立清水高中",
+    "stage": "high school",
+    "code": "14356",
+    "city": "新北市"
+  },
+  {
+    "name": "市立三民高中",
+    "stage": "high school",
+    "code": "14357",
+    "city": "新北市"
+  },
+  {
+    "name": "市立錦和高中",
+    "stage": "high school",
+    "code": "14362",
+    "city": "新北市"
+  },
+  {
+    "name": "市立光復高中",
+    "stage": "high school",
+    "code": "14363",
+    "city": "新北市"
+  },
+  {
+    "name": "市立竹圍高中",
+    "stage": "high school",
+    "code": "14364",
+    "city": "新北市"
+  },
+  {
+    "name": "市立北大高級中學",
+    "stage": "high school",
+    "code": "14381",
+    "city": "新北市"
+  },
+  {
+    "name": "市立豐珠中學",
+    "stage": "high school",
+    "code": "14399",
+    "city": "新北市"
+  },
+  {
+    "name": "市立鶯歌工商",
+    "stage": "high school",
+    "code": "14439",
+    "city": "新北市"
+  },
+  {
+    "name": "市立樟樹國際實中",
+    "stage": "high school",
+    "code": "14468",
+    "city": "新北市"
+  },
+  {
+    "name": "國立蘭陽女中",
+    "stage": "high school",
+    "code": "20301",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "國立宜蘭高中",
+    "stage": "high school",
+    "code": "20302",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "國立羅東高中",
+    "stage": "high school",
+    "code": "20308",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "國立宜蘭高商",
+    "stage": "high school",
+    "code": "20403",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "國立羅東高商",
+    "stage": "high school",
+    "code": "20404",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "國立蘇澳海事",
+    "stage": "high school",
+    "code": "20405",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "國立羅東高工",
+    "stage": "high school",
+    "code": "20407",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "國立頭城家商",
+    "stage": "high school",
+    "code": "20409",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "私立慧燈高中",
+    "stage": "high school",
+    "code": "21301",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "私立中道高中",
+    "stage": "high school",
+    "code": "21310",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "縣立南澳高中",
+    "stage": "high school",
+    "code": "24322",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "縣立慈心華德福實中",
+    "stage": "high school",
+    "code": "24325",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "國立中央大學附屬中壢高中",
+    "stage": "high school",
+    "code": "30305",
+    "city": "桃園市"
+  },
+  {
+    "name": "國立北科大附屬桃園農工",
+    "stage": "high school",
+    "code": "30403",
+    "city": "桃園市"
+  },
+  {
+    "name": "桃園市路亞國際高中",
+    "stage": "high school",
+    "code": "31301",
+    "city": "桃園市"
+  },
+  {
+    "name": "桃園市育達高中",
+    "stage": "high school",
+    "code": "31309",
+    "city": "桃園市"
+  },
+  {
+    "name": "私立六和高中",
+    "stage": "high school",
+    "code": "31310",
+    "city": "桃園市"
+  },
+  {
+    "name": "桃園市復旦高中",
+    "stage": "high school",
+    "code": "31311",
+    "city": "桃園市"
+  },
+  {
+    "name": "桃園市治平高中",
+    "stage": "high school",
+    "code": "31312",
+    "city": "桃園市"
+  },
+  {
+    "name": "桃園市振聲高中",
+    "stage": "high school",
+    "code": "31313",
+    "city": "桃園市"
+  },
+  {
+    "name": "私立光啟高中",
+    "stage": "high school",
+    "code": "31317",
+    "city": "桃園市"
+  },
+  {
+    "name": "桃園市啟英高中",
+    "stage": "high school",
+    "code": "31318",
+    "city": "桃園市"
+  },
+  {
+    "name": "桃園市清華高中",
+    "stage": "high school",
+    "code": "31319",
+    "city": "桃園市"
+  },
+  {
+    "name": "桃園市新興高中",
+    "stage": "high school",
+    "code": "31320",
+    "city": "桃園市"
+  },
+  {
+    "name": "私立至善高中",
+    "stage": "high school",
+    "code": "31323",
+    "city": "桃園市"
+  },
+  {
+    "name": "桃園市大興高中",
+    "stage": "high school",
+    "code": "31324",
+    "city": "桃園市"
+  },
+  {
+    "name": "私立大華高中",
+    "stage": "high school",
+    "code": "31326",
+    "city": "桃園市"
+  },
+  {
+    "name": "桃園市世紀綠能工商",
+    "stage": "high school",
+    "code": "31414",
+    "city": "桃園市"
+  },
+  {
+    "name": "私立方曙商工",
+    "stage": "high school",
+    "code": "31415",
+    "city": "桃園市"
+  },
+  {
+    "name": "私立永平工商",
+    "stage": "high school",
+    "code": "31421",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立龍潭高中",
+    "stage": "high school",
+    "code": "33302",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立桃園高中",
+    "stage": "high school",
+    "code": "33304",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立武陵高中",
+    "stage": "high school",
+    "code": "33306",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立楊梅高中",
+    "stage": "high school",
+    "code": "33316",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立陽明高中",
+    "stage": "high school",
+    "code": "33325",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立內壢高中",
+    "stage": "high school",
+    "code": "33327",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立中壢高商",
+    "stage": "high school",
+    "code": "33407",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立中壢家商",
+    "stage": "high school",
+    "code": "33408",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立南崁高中",
+    "stage": "high school",
+    "code": "34306",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立大溪高中",
+    "stage": "high school",
+    "code": "34312",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立壽山高中",
+    "stage": "high school",
+    "code": "34314",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立平鎮高中",
+    "stage": "high school",
+    "code": "34319",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立觀音高中",
+    "stage": "high school",
+    "code": "34332",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立新屋高級中等學校",
+    "stage": "high school",
+    "code": "34335",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立永豐高中",
+    "stage": "high school",
+    "code": "34347",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立羅浮高中",
+    "stage": "high school",
+    "code": "34348",
+    "city": "桃園市"
+  },
+  {
+    "name": "市立大園國際高中",
+    "stage": "high school",
+    "code": "34399",
+    "city": "桃園市"
+  },
+  {
+    "name": "國立竹東高中",
+    "stage": "high school",
+    "code": "40302",
+    "city": "新竹縣"
+  },
+  {
+    "name": "國立關西高中",
+    "stage": "high school",
+    "code": "40304",
+    "city": "新竹縣"
+  },
+  {
+    "name": "國立竹北高中",
+    "stage": "high school",
+    "code": "40308",
+    "city": "新竹縣"
+  },
+  {
+    "name": "私立義民高中",
+    "stage": "high school",
+    "code": "41303",
+    "city": "新竹縣"
+  },
+  {
+    "name": "私立忠信高中",
+    "stage": "high school",
+    "code": "41305",
+    "city": "新竹縣"
+  },
+  {
+    "name": "私立東泰高中",
+    "stage": "high school",
+    "code": "41306",
+    "city": "新竹縣"
+  },
+  {
+    "name": "私立仰德高中",
+    "stage": "high school",
+    "code": "41307",
+    "city": "新竹縣"
+  },
+  {
+    "name": "私立內思高工",
+    "stage": "high school",
+    "code": "41401",
+    "city": "新竹縣"
+  },
+  {
+    "name": "縣立六家高級中學",
+    "stage": "high school",
+    "code": "44311",
+    "city": "新竹縣"
+  },
+  {
+    "name": "縣立湖口高中",
+    "stage": "high school",
+    "code": "44320",
+    "city": "新竹縣"
+  },
+  {
+    "name": "國立苗栗高中",
+    "stage": "high school",
+    "code": "50303",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "國立竹南高中",
+    "stage": "high school",
+    "code": "50310",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "國立卓蘭高中",
+    "stage": "high school",
+    "code": "50314",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "國立苑裡高中",
+    "stage": "high school",
+    "code": "50315",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "國立大湖農工",
+    "stage": "high school",
+    "code": "50401",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "國立苗栗農工",
+    "stage": "high school",
+    "code": "50404",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "國立苗栗高商",
+    "stage": "high school",
+    "code": "50407",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "私立君毅高中",
+    "stage": "high school",
+    "code": "51302",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "私立建臺高中",
+    "stage": "high school",
+    "code": "51306",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "私立全人實驗高中",
+    "stage": "high school",
+    "code": "51307",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "私立中興商工",
+    "stage": "high school",
+    "code": "51408",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "私立龍德家商",
+    "stage": "high school",
+    "code": "51413",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "縣立三義高中",
+    "stage": "high school",
+    "code": "54308",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "縣立苑裡高中",
+    "stage": "high school",
+    "code": "54309",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "縣立興華高中",
+    "stage": "high school",
+    "code": "54317",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "縣立大同高中",
+    "stage": "high school",
+    "code": "54333",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "國立興大附中",
+    "stage": "high school",
+    "code": "60322",
+    "city": "臺中市"
+  },
+  {
+    "name": "國立中科實驗高級中學",
+    "stage": "high school",
+    "code": "60323",
+    "city": "臺中市"
+  },
+  {
+    "name": "財團法人常春藤高中",
+    "stage": "high school",
+    "code": "61301",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立明台高中",
+    "stage": "high school",
+    "code": "61306",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立致用高中",
+    "stage": "high school",
+    "code": "61309",
+    "city": "臺中市"
+  },
+  {
+    "name": "臺中市大明高中",
+    "stage": "high school",
+    "code": "61310",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立嘉陽高中",
+    "stage": "high school",
+    "code": "61311",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立明道高中",
+    "stage": "high school",
+    "code": "61313",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立僑泰高中",
+    "stage": "high school",
+    "code": "61314",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立華盛頓高中",
+    "stage": "high school",
+    "code": "61315",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立青年高中",
+    "stage": "high school",
+    "code": "61316",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立弘文高中",
+    "stage": "high school",
+    "code": "61317",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立立人高中",
+    "stage": "high school",
+    "code": "61318",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立玉山高中",
+    "stage": "high school",
+    "code": "61319",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立慈明高中",
+    "stage": "high school",
+    "code": "61321",
+    "city": "臺中市"
+  },
+  {
+    "name": "華德福大地實驗學校",
+    "stage": "high school",
+    "code": "61322",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立洛克威爾藝術實驗教育學校",
+    "stage": "high school",
+    "code": "61323",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立大甲高中",
+    "stage": "high school",
+    "code": "63303",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立清水高中",
+    "stage": "high school",
+    "code": "63305",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立豐原高中",
+    "stage": "high school",
+    "code": "63312",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立豐原高商",
+    "stage": "high school",
+    "code": "63401",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立大甲高工",
+    "stage": "high school",
+    "code": "63402",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立東勢高工",
+    "stage": "high school",
+    "code": "63404",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立沙鹿高工",
+    "stage": "high school",
+    "code": "63407",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立霧峰農工",
+    "stage": "high school",
+    "code": "63408",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立后綜高中",
+    "stage": "high school",
+    "code": "64308",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立大里高中",
+    "stage": "high school",
+    "code": "64324",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立新社高中",
+    "stage": "high school",
+    "code": "64328",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立長億高中",
+    "stage": "high school",
+    "code": "64336",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立中港高中",
+    "stage": "high school",
+    "code": "64342",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立龍津高中",
+    "stage": "high school",
+    "code": "64350",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立神岡高工",
+    "stage": "high school",
+    "code": "64406",
+    "city": "臺中市"
+  },
+  {
+    "name": "國立彰化女中",
+    "stage": "high school",
+    "code": "70301",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立員林高中",
+    "stage": "high school",
+    "code": "70304",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立彰化高中",
+    "stage": "high school",
+    "code": "70307",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立鹿港高中",
+    "stage": "high school",
+    "code": "70316",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立溪湖高中",
+    "stage": "high school",
+    "code": "70319",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立彰師附工",
+    "stage": "high school",
+    "code": "70401",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立永靖高工",
+    "stage": "high school",
+    "code": "70402",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立二林工商",
+    "stage": "high school",
+    "code": "70403",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立秀水高工",
+    "stage": "high school",
+    "code": "70405",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立彰化高商",
+    "stage": "high school",
+    "code": "70406",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立員林農工",
+    "stage": "high school",
+    "code": "70408",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立員林崇實高工",
+    "stage": "high school",
+    "code": "70409",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立員林家商",
+    "stage": "high school",
+    "code": "70410",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立北斗家商",
+    "stage": "high school",
+    "code": "70415",
+    "city": "彰化縣"
+  },
+  {
+    "name": "私立精誠高中",
+    "stage": "high school",
+    "code": "71311",
+    "city": "彰化縣"
+  },
+  {
+    "name": "私立文興高中",
+    "stage": "high school",
+    "code": "71317",
+    "city": "彰化縣"
+  },
+  {
+    "name": "財團法人正德高中",
+    "stage": "high school",
+    "code": "71318",
+    "city": "彰化縣"
+  },
+  {
+    "name": "私立大慶商工",
+    "stage": "high school",
+    "code": "71413",
+    "city": "彰化縣"
+  },
+  {
+    "name": "私立達德商工",
+    "stage": "high school",
+    "code": "71414",
+    "city": "彰化縣"
+  },
+  {
+    "name": "縣立彰化藝術高中",
+    "stage": "high school",
+    "code": "74308",
+    "city": "彰化縣"
+  },
+  {
+    "name": "縣立二林高中",
+    "stage": "high school",
+    "code": "74313",
+    "city": "彰化縣"
+  },
+  {
+    "name": "縣立和美高中",
+    "stage": "high school",
+    "code": "74323",
+    "city": "彰化縣"
+  },
+  {
+    "name": "縣立田中高中",
+    "stage": "high school",
+    "code": "74328",
+    "city": "彰化縣"
+  },
+  {
+    "name": "縣立成功高中",
+    "stage": "high school",
+    "code": "74339",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立南投高中",
+    "stage": "high school",
+    "code": "80302",
+    "city": "南投縣"
+  },
+  {
+    "name": "國立中興高中",
+    "stage": "high school",
+    "code": "80305",
+    "city": "南投縣"
+  },
+  {
+    "name": "國立竹山高中",
+    "stage": "high school",
+    "code": "80307",
+    "city": "南投縣"
+  },
+  {
+    "name": "國立暨大附中",
+    "stage": "high school",
+    "code": "80308",
+    "city": "南投縣"
+  },
+  {
+    "name": "國立仁愛高農",
+    "stage": "high school",
+    "code": "80401",
+    "city": "南投縣"
+  },
+  {
+    "name": "國立埔里高工",
+    "stage": "high school",
+    "code": "80403",
+    "city": "南投縣"
+  },
+  {
+    "name": "國立南投高商",
+    "stage": "high school",
+    "code": "80404",
+    "city": "南投縣"
+  },
+  {
+    "name": "國立草屯商工",
+    "stage": "high school",
+    "code": "80406",
+    "city": "南投縣"
+  },
+  {
+    "name": "國立水里商工",
+    "stage": "high school",
+    "code": "80410",
+    "city": "南投縣"
+  },
+  {
+    "name": "私立五育高中",
+    "stage": "high school",
+    "code": "81311",
+    "city": "南投縣"
+  },
+  {
+    "name": "私立三育高中",
+    "stage": "high school",
+    "code": "81312",
+    "city": "南投縣"
+  },
+  {
+    "name": "私立弘明實驗高中",
+    "stage": "high school",
+    "code": "81313",
+    "city": "南投縣"
+  },
+  {
+    "name": "私立普台高中",
+    "stage": "high school",
+    "code": "81314",
+    "city": "南投縣"
+  },
+  {
+    "name": "南投縣同德高中",
+    "stage": "high school",
+    "code": "81409",
+    "city": "南投縣"
+  },
+  {
+    "name": "縣立旭光高中",
+    "stage": "high school",
+    "code": "84309",
+    "city": "南投縣"
+  },
+  {
+    "name": "國立斗六高中",
+    "stage": "high school",
+    "code": "90305",
+    "city": "雲林縣"
+  },
+  {
+    "name": "國立北港高中",
+    "stage": "high school",
+    "code": "90306",
+    "city": "雲林縣"
+  },
+  {
+    "name": "國立虎尾高中",
+    "stage": "high school",
+    "code": "90315",
+    "city": "雲林縣"
+  },
+  {
+    "name": "國立虎尾農工",
+    "stage": "high school",
+    "code": "90401",
+    "city": "雲林縣"
+  },
+  {
+    "name": "國立西螺農工",
+    "stage": "high school",
+    "code": "90402",
+    "city": "雲林縣"
+  },
+  {
+    "name": "國立斗六家商",
+    "stage": "high school",
+    "code": "90403",
+    "city": "雲林縣"
+  },
+  {
+    "name": "國立北港農工",
+    "stage": "high school",
+    "code": "90404",
+    "city": "雲林縣"
+  },
+  {
+    "name": "國立土庫商工",
+    "stage": "high school",
+    "code": "90413",
+    "city": "雲林縣"
+  },
+  {
+    "name": "私立永年高中",
+    "stage": "high school",
+    "code": "91307",
+    "city": "雲林縣"
+  },
+  {
+    "name": "私立正心高中",
+    "stage": "high school",
+    "code": "91308",
+    "city": "雲林縣"
+  },
+  {
+    "name": "私立文生高中",
+    "stage": "high school",
+    "code": "91311",
+    "city": "雲林縣"
+  },
+  {
+    "name": "私立巨人高中",
+    "stage": "high school",
+    "code": "91312",
+    "city": "雲林縣"
+  },
+  {
+    "name": "私立揚子高中",
+    "stage": "high school",
+    "code": "91316",
+    "city": "雲林縣"
+  },
+  {
+    "name": "財團法人義峰高中",
+    "stage": "high school",
+    "code": "91318",
+    "city": "雲林縣"
+  },
+  {
+    "name": "福智高中",
+    "stage": "high school",
+    "code": "91319",
+    "city": "雲林縣"
+  },
+  {
+    "name": "雲林縣維多利亞實驗高中",
+    "stage": "high school",
+    "code": "91320",
+    "city": "雲林縣"
+  },
+  {
+    "name": "私立大成商工",
+    "stage": "high school",
+    "code": "91410",
+    "city": "雲林縣"
+  },
+  {
+    "name": "私立大德工商",
+    "stage": "high school",
+    "code": "91414",
+    "city": "雲林縣"
+  },
+  {
+    "name": "縣立斗南高中",
+    "stage": "high school",
+    "code": "94301",
+    "city": "雲林縣"
+  },
+  {
+    "name": "縣立麥寮高中",
+    "stage": "high school",
+    "code": "94307",
+    "city": "雲林縣"
+  },
+  {
+    "name": "縣立古坑華德福實驗高級中學",
+    "stage": "high school",
+    "code": "94308",
+    "city": "雲林縣"
+  },
+  {
+    "name": "縣立蔦松藝術高中",
+    "stage": "high school",
+    "code": "94326",
+    "city": "雲林縣"
+  },
+  {
+    "name": "國立東石高中",
+    "stage": "high school",
+    "code": "100301",
+    "city": "嘉義縣"
+  },
+  {
+    "name": "國立新港藝術高中",
+    "stage": "high school",
+    "code": "100302",
+    "city": "嘉義縣"
+  },
+  {
+    "name": "國立嘉科實驗高中",
+    "stage": "high school",
+    "code": "100303",
+    "city": "嘉義縣"
+  },
+  {
+    "name": "國立民雄農工",
+    "stage": "high school",
+    "code": "100402",
+    "city": "嘉義縣"
+  },
+  {
+    "name": "私立同濟高中",
+    "stage": "high school",
+    "code": "101303",
+    "city": "嘉義縣"
+  },
+  {
+    "name": "私立協同高中",
+    "stage": "high school",
+    "code": "101304",
+    "city": "嘉義縣"
+  },
+  {
+    "name": "私立萬能工商",
+    "stage": "high school",
+    "code": "101406",
+    "city": "嘉義縣"
+  },
+  {
+    "name": "縣立竹崎高中",
+    "stage": "high school",
+    "code": "104319",
+    "city": "嘉義縣"
+  },
+  {
+    "name": "縣立永慶高中",
+    "stage": "high school",
+    "code": "104326",
+    "city": "嘉義縣"
+  },
+  {
+    "name": "國立新豐高中",
+    "stage": "high school",
+    "code": "110302",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立臺南大學附中",
+    "stage": "high school",
+    "code": "110308",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立北門高中",
+    "stage": "high school",
+    "code": "110311",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立新營高中",
+    "stage": "high school",
+    "code": "110312",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立後壁高中",
+    "stage": "high school",
+    "code": "110314",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立善化高中",
+    "stage": "high school",
+    "code": "110315",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立新化高中",
+    "stage": "high school",
+    "code": "110317",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立南科國際實驗高中",
+    "stage": "high school",
+    "code": "110328",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立新化高工",
+    "stage": "high school",
+    "code": "110401",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立白河商工",
+    "stage": "high school",
+    "code": "110403",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立北門農工",
+    "stage": "high school",
+    "code": "110404",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立曾文家商",
+    "stage": "high school",
+    "code": "110405",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立新營高工",
+    "stage": "high school",
+    "code": "110406",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立玉井工商",
+    "stage": "high school",
+    "code": "110407",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立成大附屬南工",
+    "stage": "high school",
+    "code": "110409",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立曾文農工",
+    "stage": "high school",
+    "code": "110410",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立南光高中",
+    "stage": "high school",
+    "code": "111313",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立港明高中",
+    "stage": "high school",
+    "code": "111320",
+    "city": "臺南市"
+  },
+  {
+    "name": "臺南市興國高中",
+    "stage": "high school",
+    "code": "111321",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立明達高中",
+    "stage": "high school",
+    "code": "111322",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立黎明高中",
+    "stage": "high school",
+    "code": "111323",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立新榮高中",
+    "stage": "high school",
+    "code": "111326",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立陽明工商",
+    "stage": "high school",
+    "code": "111419",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立育德工家",
+    "stage": "high school",
+    "code": "111427",
+    "city": "臺南市"
+  },
+  {
+    "name": "市立大灣高中",
+    "stage": "high school",
+    "code": "114306",
+    "city": "臺南市"
+  },
+  {
+    "name": "市立永仁高中",
+    "stage": "high school",
+    "code": "114307",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立鳳山高中",
+    "stage": "high school",
+    "code": "120303",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立岡山高中",
+    "stage": "high school",
+    "code": "120304",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立旗美高中",
+    "stage": "high school",
+    "code": "120311",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立鳳新高中",
+    "stage": "high school",
+    "code": "120319",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立旗山農工",
+    "stage": "high school",
+    "code": "120401",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立岡山農工",
+    "stage": "high school",
+    "code": "120402",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立鳳山商工",
+    "stage": "high school",
+    "code": "120409",
+    "city": "高雄市"
+  },
+  {
+    "name": "光禾華德福實驗學校",
+    "stage": "high school",
+    "code": "121302",
+    "city": "高雄市"
+  },
+  {
+    "name": "財團法人新光高中",
+    "stage": "high school",
+    "code": "121306",
+    "city": "高雄市"
+  },
+  {
+    "name": "財團法人普門中學",
+    "stage": "high school",
+    "code": "121307",
+    "city": "高雄市"
+  },
+  {
+    "name": "私立正義高中",
+    "stage": "high school",
+    "code": "121318",
+    "city": "高雄市"
+  },
+  {
+    "name": "私立義大國際高中",
+    "stage": "high school",
+    "code": "121320",
+    "city": "高雄市"
+  },
+  {
+    "name": "私立中山工商",
+    "stage": "high school",
+    "code": "121405",
+    "city": "高雄市"
+  },
+  {
+    "name": "私立旗美商工",
+    "stage": "high school",
+    "code": "121410",
+    "city": "高雄市"
+  },
+  {
+    "name": "私立高英工商",
+    "stage": "high school",
+    "code": "121413",
+    "city": "高雄市"
+  },
+  {
+    "name": "私立華德工家",
+    "stage": "high school",
+    "code": "121415",
+    "city": "高雄市"
+  },
+  {
+    "name": "私立高苑工商",
+    "stage": "high school",
+    "code": "121417",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立文山高中",
+    "stage": "high school",
+    "code": "124302",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立林園高中",
+    "stage": "high school",
+    "code": "124311",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立仁武高中",
+    "stage": "high school",
+    "code": "124313",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立路竹高中",
+    "stage": "high school",
+    "code": "124322",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立六龜高中",
+    "stage": "high school",
+    "code": "124333",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立福誠高中",
+    "stage": "high school",
+    "code": "124340",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立屏東女中",
+    "stage": "high school",
+    "code": "130302",
+    "city": "屏東縣"
+  },
+  {
+    "name": "國立屏東高中",
+    "stage": "high school",
+    "code": "130305",
+    "city": "屏東縣"
+  },
+  {
+    "name": "國立潮州高中",
+    "stage": "high school",
+    "code": "130306",
+    "city": "屏東縣"
+  },
+  {
+    "name": "國立屏科實驗高中",
+    "stage": "high school",
+    "code": "130307",
+    "city": "屏東縣"
+  },
+  {
+    "name": "國立屏北高中",
+    "stage": "high school",
+    "code": "130322",
+    "city": "屏東縣"
+  },
+  {
+    "name": "國立內埔農工",
+    "stage": "high school",
+    "code": "130401",
+    "city": "屏東縣"
+  },
+  {
+    "name": "國立屏東高工",
+    "stage": "high school",
+    "code": "130403",
+    "city": "屏東縣"
+  },
+  {
+    "name": "國立佳冬高農",
+    "stage": "high school",
+    "code": "130404",
+    "city": "屏東縣"
+  },
+  {
+    "name": "國立東港海事",
+    "stage": "high school",
+    "code": "130410",
+    "city": "屏東縣"
+  },
+  {
+    "name": "國立恆春工商",
+    "stage": "high school",
+    "code": "130417",
+    "city": "屏東縣"
+  },
+  {
+    "name": "屏東縣崇華高中",
+    "stage": "high school",
+    "code": "131302",
+    "city": "屏東縣"
+  },
+  {
+    "name": "財團法人屏榮高中",
+    "stage": "high school",
+    "code": "131307",
+    "city": "屏東縣"
+  },
+  {
+    "name": "私立陸興高中",
+    "stage": "high school",
+    "code": "131308",
+    "city": "屏東縣"
+  },
+  {
+    "name": "私立美和高中",
+    "stage": "high school",
+    "code": "131311",
+    "city": "屏東縣"
+  },
+  {
+    "name": "私立民生家商",
+    "stage": "high school",
+    "code": "131409",
+    "city": "屏東縣"
+  },
+  {
+    "name": "縣立大同高中",
+    "stage": "high school",
+    "code": "134304",
+    "city": "屏東縣"
+  },
+  {
+    "name": "縣立枋寮高中",
+    "stage": "high school",
+    "code": "134321",
+    "city": "屏東縣"
+  },
+  {
+    "name": "縣立東港高中",
+    "stage": "high school",
+    "code": "134324",
+    "city": "屏東縣"
+  },
+  {
+    "name": "縣立來義高中",
+    "stage": "high school",
+    "code": "134334",
+    "city": "屏東縣"
+  },
+  {
+    "name": "國立臺東大學附屬體育高中",
+    "stage": "high school",
+    "code": "140301",
+    "city": "臺東縣"
+  },
+  {
+    "name": "國立臺東女中",
+    "stage": "high school",
+    "code": "140302",
+    "city": "臺東縣"
+  },
+  {
+    "name": "國立臺東高中",
+    "stage": "high school",
+    "code": "140303",
+    "city": "臺東縣"
+  },
+  {
+    "name": "國立關山工商",
+    "stage": "high school",
+    "code": "140404",
+    "city": "臺東縣"
+  },
+  {
+    "name": "國立臺東高商",
+    "stage": "high school",
+    "code": "140405",
+    "city": "臺東縣"
+  },
+  {
+    "name": "國立成功商水",
+    "stage": "high school",
+    "code": "140408",
+    "city": "臺東縣"
+  },
+  {
+    "name": "臺東縣均一高中",
+    "stage": "high school",
+    "code": "141301",
+    "city": "臺東縣"
+  },
+  {
+    "name": "私立育仁高中",
+    "stage": "high school",
+    "code": "141307",
+    "city": "臺東縣"
+  },
+  {
+    "name": "私立公東高工",
+    "stage": "high school",
+    "code": "141406",
+    "city": "臺東縣"
+  },
+  {
+    "name": "縣立蘭嶼高中",
+    "stage": "high school",
+    "code": "144322",
+    "city": "臺東縣"
+  },
+  {
+    "name": "國立花蓮女中",
+    "stage": "high school",
+    "code": "150302",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "國立花蓮高中",
+    "stage": "high school",
+    "code": "150303",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "國立玉里高中",
+    "stage": "high school",
+    "code": "150309",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "國立花蓮高農",
+    "stage": "high school",
+    "code": "150401",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "國立花蓮高工",
+    "stage": "high school",
+    "code": "150404",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "國立花蓮高商",
+    "stage": "high school",
+    "code": "150405",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "國立光復商工",
+    "stage": "high school",
+    "code": "150411",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "私立海星高中",
+    "stage": "high school",
+    "code": "151306",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "私立四維高中",
+    "stage": "high school",
+    "code": "151307",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "財團法人慈濟大學附中",
+    "stage": "high school",
+    "code": "151312",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "花蓮縣上騰工商",
+    "stage": "high school",
+    "code": "151410",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "花蓮縣立體育高中",
+    "stage": "high school",
+    "code": "154301",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "縣立南平中學",
+    "stage": "high school",
+    "code": "154399",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "國立馬公高中",
+    "stage": "high school",
+    "code": "160302",
+    "city": "澎湖縣"
+  },
+  {
+    "name": "國立澎湖海事水產",
+    "stage": "high school",
+    "code": "160401",
+    "city": "澎湖縣"
+  },
+  {
+    "name": "國立基隆女中",
+    "stage": "high school",
+    "code": "170301",
+    "city": "基隆市"
+  },
+  {
+    "name": "國立基隆高中",
+    "stage": "high school",
+    "code": "170302",
+    "city": "基隆市"
+  },
+  {
+    "name": "國立海洋大學附屬基隆海事",
+    "stage": "high school",
+    "code": "170403",
+    "city": "基隆市"
+  },
+  {
+    "name": "國立基隆商工",
+    "stage": "high school",
+    "code": "170404",
+    "city": "基隆市"
+  },
+  {
+    "name": "私立二信高中",
+    "stage": "high school",
+    "code": "171306",
+    "city": "基隆市"
+  },
+  {
+    "name": "輔大聖心高中",
+    "stage": "high school",
+    "code": "171308",
+    "city": "基隆市"
+  },
+  {
+    "name": "私立光隆家商",
+    "stage": "high school",
+    "code": "171405",
+    "city": "基隆市"
+  },
+  {
+    "name": "私立培德工家",
+    "stage": "high school",
+    "code": "171407",
+    "city": "基隆市"
+  },
+  {
+    "name": "市立中山高中",
+    "stage": "high school",
+    "code": "173304",
+    "city": "基隆市"
+  },
+  {
+    "name": "市立安樂高中",
+    "stage": "high school",
+    "code": "173306",
+    "city": "基隆市"
+  },
+  {
+    "name": "市立暖暖高中",
+    "stage": "high school",
+    "code": "173307",
+    "city": "基隆市"
+  },
+  {
+    "name": "市立八斗高中",
+    "stage": "high school",
+    "code": "173314",
+    "city": "基隆市"
+  },
+  {
+    "name": "國立竹科實驗高級中等學校",
+    "stage": "high school",
+    "code": "180301",
+    "city": "新竹市"
+  },
+  {
+    "name": "國立新竹女中",
+    "stage": "high school",
+    "code": "180302",
+    "city": "新竹市"
+  },
+  {
+    "name": "國立新竹高中",
+    "stage": "high school",
+    "code": "180309",
+    "city": "新竹市"
+  },
+  {
+    "name": "國立新竹高商",
+    "stage": "high school",
+    "code": "180403",
+    "city": "新竹市"
+  },
+  {
+    "name": "國立新竹高工",
+    "stage": "high school",
+    "code": "180404",
+    "city": "新竹市"
+  },
+  {
+    "name": "私立光復高中",
+    "stage": "high school",
+    "code": "181305",
+    "city": "新竹市"
+  },
+  {
+    "name": "私立曙光女中",
+    "stage": "high school",
+    "code": "181306",
+    "city": "新竹市"
+  },
+  {
+    "name": "私立磐石高中",
+    "stage": "high school",
+    "code": "181307",
+    "city": "新竹市"
+  },
+  {
+    "name": "私立世界高中",
+    "stage": "high school",
+    "code": "181308",
+    "city": "新竹市"
+  },
+  {
+    "name": "市立成德高中",
+    "stage": "high school",
+    "code": "183306",
+    "city": "新竹市"
+  },
+  {
+    "name": "市立香山高中",
+    "stage": "high school",
+    "code": "183307",
+    "city": "新竹市"
+  },
+  {
+    "name": "市立建功高中",
+    "stage": "high school",
+    "code": "183313",
+    "city": "新竹市"
+  },
+  {
+    "name": "國立興大附農",
+    "stage": "high school",
+    "code": "190406",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立東大附中",
+    "stage": "high school",
+    "code": "191301",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立葳格高中",
+    "stage": "high school",
+    "code": "191302",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立新民高中",
+    "stage": "high school",
+    "code": "191305",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立宜寧高中",
+    "stage": "high school",
+    "code": "191308",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立明德高中",
+    "stage": "high school",
+    "code": "191309",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立衛道高中",
+    "stage": "high school",
+    "code": "191311",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立曉明女中",
+    "stage": "high school",
+    "code": "191313",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立嶺東高中",
+    "stage": "high school",
+    "code": "191314",
+    "city": "臺中市"
+  },
+  {
+    "name": "私立磊川華德福實驗教育學校",
+    "stage": "high school",
+    "code": "191315",
+    "city": "臺中市"
+  },
+  {
+    "name": "財團法人光華高工",
+    "stage": "high school",
+    "code": "191412",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立臺中女中",
+    "stage": "high school",
+    "code": "193301",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立臺中一中",
+    "stage": "high school",
+    "code": "193302",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立忠明高中",
+    "stage": "high school",
+    "code": "193303",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立西苑高中",
+    "stage": "high school",
+    "code": "193313",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立東山高中",
+    "stage": "high school",
+    "code": "193315",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立惠文高中",
+    "stage": "high school",
+    "code": "193316",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立臺中家商",
+    "stage": "high school",
+    "code": "193404",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立臺中高工",
+    "stage": "high school",
+    "code": "193407",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立臺中二中",
+    "stage": "high school",
+    "code": "194303",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立文華高中",
+    "stage": "high school",
+    "code": "194315",
+    "city": "臺中市"
+  },
+  {
+    "name": "國立嘉義女中",
+    "stage": "high school",
+    "code": "200302",
+    "city": "嘉義市"
+  },
+  {
+    "name": "國立嘉義高中",
+    "stage": "high school",
+    "code": "200303",
+    "city": "嘉義市"
+  },
+  {
+    "name": "國立華南高商",
+    "stage": "high school",
+    "code": "200401",
+    "city": "嘉義市"
+  },
+  {
+    "name": "國立嘉義高工",
+    "stage": "high school",
+    "code": "200405",
+    "city": "嘉義市"
+  },
+  {
+    "name": "國立嘉義高商",
+    "stage": "high school",
+    "code": "200406",
+    "city": "嘉義市"
+  },
+  {
+    "name": "國立嘉義家職",
+    "stage": "high school",
+    "code": "200407",
+    "city": "嘉義市"
+  },
+  {
+    "name": "私立興華高中",
+    "stage": "high school",
+    "code": "201304",
+    "city": "嘉義市"
+  },
+  {
+    "name": "私立嘉華高中",
+    "stage": "high school",
+    "code": "201310",
+    "city": "嘉義市"
+  },
+  {
+    "name": "私立輔仁高中",
+    "stage": "high school",
+    "code": "201312",
+    "city": "嘉義市"
+  },
+  {
+    "name": "私立宏仁高中",
+    "stage": "high school",
+    "code": "201313",
+    "city": "嘉義市"
+  },
+  {
+    "name": "私立立仁高中",
+    "stage": "high school",
+    "code": "201314",
+    "city": "嘉義市"
+  },
+  {
+    "name": "私立東吳工家",
+    "stage": "high school",
+    "code": "201408",
+    "city": "嘉義市"
+  },
+  {
+    "name": "國立臺南二中",
+    "stage": "high school",
+    "code": "210303",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立臺南一中",
+    "stage": "high school",
+    "code": "210305",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立臺南女中",
+    "stage": "high school",
+    "code": "210306",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立家齊高中",
+    "stage": "high school",
+    "code": "210309",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立臺南高商",
+    "stage": "high school",
+    "code": "210408",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立臺南海事",
+    "stage": "high school",
+    "code": "210416",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立長榮高中",
+    "stage": "high school",
+    "code": "211301",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立長榮女中",
+    "stage": "high school",
+    "code": "211302",
+    "city": "臺南市"
+  },
+  {
+    "name": "財團法人聖功女中",
+    "stage": "high school",
+    "code": "211304",
+    "city": "臺南市"
+  },
+  {
+    "name": "臺南市光華高中",
+    "stage": "high school",
+    "code": "211310",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立六信高中",
+    "stage": "high school",
+    "code": "211314",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立瀛海高中",
+    "stage": "high school",
+    "code": "211315",
+    "city": "臺南市"
+  },
+  {
+    "name": "臺南市崑山高中",
+    "stage": "high school",
+    "code": "211317",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立德光高中",
+    "stage": "high school",
+    "code": "211318",
+    "city": "臺南市"
+  },
+  {
+    "name": "財團法人慈濟高中",
+    "stage": "high school",
+    "code": "211320",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立南英商工",
+    "stage": "high school",
+    "code": "211407",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立亞洲餐旅",
+    "stage": "high school",
+    "code": "211412",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立慈幼工商",
+    "stage": "high school",
+    "code": "211419",
+    "city": "臺南市"
+  },
+  {
+    "name": "市立南寧高中",
+    "stage": "high school",
+    "code": "213303",
+    "city": "臺南市"
+  },
+  {
+    "name": "市立土城高中",
+    "stage": "high school",
+    "code": "213316",
+    "city": "臺南市"
+  },
+  {
+    "name": "私立育達高中",
+    "stage": "high school",
+    "code": "311401",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立西松高中",
+    "stage": "high school",
+    "code": "313301",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立中崙高中",
+    "stage": "high school",
+    "code": "313302",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立協和祐德高中",
+    "stage": "high school",
+    "code": "321399",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立松山高中",
+    "stage": "high school",
+    "code": "323301",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立永春高中",
+    "stage": "high school",
+    "code": "323302",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立松山家商",
+    "stage": "high school",
+    "code": "323401",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立松山工農",
+    "stage": "high school",
+    "code": "323402",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立師大附中",
+    "stage": "high school",
+    "code": "330301",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立延平中學",
+    "stage": "high school",
+    "code": "331301",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立金甌女中",
+    "stage": "high school",
+    "code": "331302",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立復興實驗高中",
+    "stage": "high school",
+    "code": "331304",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立東方工商",
+    "stage": "high school",
+    "code": "331402",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立喬治工商",
+    "stage": "high school",
+    "code": "331403",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立開平餐飲",
+    "stage": "high school",
+    "code": "331404",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立和平高中",
+    "stage": "high school",
+    "code": "333301",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立芳和實中",
+    "stage": "high school",
+    "code": "333304",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立大安高工",
+    "stage": "high school",
+    "code": "333401",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立大同高中",
+    "stage": "high school",
+    "code": "341302",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立稻江護家",
+    "stage": "high school",
+    "code": "341402",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立中山女中",
+    "stage": "high school",
+    "code": "343301",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立大同高中",
+    "stage": "high school",
+    "code": "343302",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立大直高中",
+    "stage": "high school",
+    "code": "343303",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立強恕中學",
+    "stage": "high school",
+    "code": "351301",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市開南高中",
+    "stage": "high school",
+    "code": "351402",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立建國中學",
+    "stage": "high school",
+    "code": "353301",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立成功中學",
+    "stage": "high school",
+    "code": "353302",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立北一女中",
+    "stage": "high school",
+    "code": "353303",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立靜修高中",
+    "stage": "high school",
+    "code": "361301",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立稻江高商",
+    "stage": "high school",
+    "code": "361401",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立明倫高中",
+    "stage": "high school",
+    "code": "363301",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立成淵高中",
+    "stage": "high school",
+    "code": "363302",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立華江高中",
+    "stage": "high school",
+    "code": "373301",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立大理高中",
+    "stage": "high school",
+    "code": "373302",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立政大附中",
+    "stage": "high school",
+    "code": "380301",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立東山高中",
+    "stage": "high school",
+    "code": "381301",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立滬江高中",
+    "stage": "high school",
+    "code": "381302",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立大誠高中",
+    "stage": "high school",
+    "code": "381303",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立再興中學",
+    "stage": "high school",
+    "code": "381304",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立景文高中",
+    "stage": "high school",
+    "code": "381305",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立靜心高中",
+    "stage": "high school",
+    "code": "381306",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立景美女中",
+    "stage": "high school",
+    "code": "383301",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立萬芳高中",
+    "stage": "high school",
+    "code": "383302",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立數位實驗高中",
+    "stage": "high school",
+    "code": "383303",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立木柵高工",
+    "stage": "high school",
+    "code": "383401",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立南港高中",
+    "stage": "high school",
+    "code": "393301",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立育成高中",
+    "stage": "high school",
+    "code": "393302",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立南港高工",
+    "stage": "high school",
+    "code": "393401",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立文德女中",
+    "stage": "high school",
+    "code": "401301",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立達人高中",
+    "stage": "high school",
+    "code": "401303",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立內湖高中",
+    "stage": "high school",
+    "code": "403301",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立麗山高中",
+    "stage": "high school",
+    "code": "403302",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立南湖高中",
+    "stage": "high school",
+    "code": "403303",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立內湖高工",
+    "stage": "high school",
+    "code": "403401",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立泰北高中",
+    "stage": "high school",
+    "code": "411301",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立衛理女中",
+    "stage": "high school",
+    "code": "411302",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立華興中學",
+    "stage": "high school",
+    "code": "411303",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立華岡藝校",
+    "stage": "high school",
+    "code": "411401",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立陽明高中",
+    "stage": "high school",
+    "code": "413301",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立百齡高中",
+    "stage": "high school",
+    "code": "413302",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立士林高商",
+    "stage": "high school",
+    "code": "413401",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立薇閣高中",
+    "stage": "high school",
+    "code": "421301",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市幼華高中",
+    "stage": "high school",
+    "code": "421302",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立奎山實驗高級中學",
+    "stage": "high school",
+    "code": "421303",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立惇敍工商",
+    "stage": "high school",
+    "code": "421404",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立復興高中",
+    "stage": "high school",
+    "code": "423301",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立中正高中",
+    "stage": "high school",
+    "code": "423302",
+    "city": "臺北市"
+  },
+  {
+    "name": "天主教明誠高中",
+    "stage": "high school",
+    "code": "521301",
+    "city": "高雄市"
+  },
+  {
+    "name": "私立大榮高中",
+    "stage": "high school",
+    "code": "521303",
+    "city": "高雄市"
+  },
+  {
+    "name": "私立中華藝校",
+    "stage": "high school",
+    "code": "521401",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立鼓山高中",
+    "stage": "high school",
+    "code": "523301",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立左營高中",
+    "stage": "high school",
+    "code": "533301",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立新莊高中",
+    "stage": "high school",
+    "code": "533302",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立海青工商",
+    "stage": "high school",
+    "code": "533401",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立三民家商",
+    "stage": "high school",
+    "code": "533402",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立中山大學附屬國光高中",
+    "stage": "high school",
+    "code": "540301",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立中山高中",
+    "stage": "high school",
+    "code": "543301",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立楠梓高中",
+    "stage": "high school",
+    "code": "543302",
+    "city": "高雄市"
+  },
+  {
+    "name": "私立立志高中",
+    "stage": "high school",
+    "code": "551301",
+    "city": "高雄市"
+  },
+  {
+    "name": "私立樹德家商",
+    "stage": "high school",
+    "code": "551402",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立高雄中學",
+    "stage": "high school",
+    "code": "553301",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立三民高中",
+    "stage": "high school",
+    "code": "553302",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立高雄高工",
+    "stage": "high school",
+    "code": "553401",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立新興高中",
+    "stage": "high school",
+    "code": "563301",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立高雄高商",
+    "stage": "high school",
+    "code": "563401",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立高雄女中",
+    "stage": "high school",
+    "code": "573301",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立高師大附中",
+    "stage": "high school",
+    "code": "580301",
+    "city": "高雄市"
+  },
+  {
+    "name": "私立復華高中",
+    "stage": "high school",
+    "code": "581301",
+    "city": "高雄市"
+  },
+  {
+    "name": "天主教道明中學",
+    "stage": "high school",
+    "code": "581302",
+    "city": "高雄市"
+  },
+  {
+    "name": "私立三信家商",
+    "stage": "high school",
+    "code": "581402",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立中正高中",
+    "stage": "high school",
+    "code": "583301",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立前鎮高中",
+    "stage": "high school",
+    "code": "593301",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立瑞祥高中",
+    "stage": "high school",
+    "code": "593302",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立中正高工",
+    "stage": "high school",
+    "code": "593401",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立高餐大附屬餐旅中學",
+    "stage": "high school",
+    "code": "610405",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立小港高中",
+    "stage": "high school",
+    "code": "613301",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立金門高中",
+    "stage": "high school",
+    "code": "710301",
+    "city": "金門縣"
+  },
+  {
+    "name": "國立金門農工",
+    "stage": "high school",
+    "code": "710401",
+    "city": "金門縣"
+  },
+  {
+    "name": "國立馬祖高中",
+    "stage": "high school",
+    "code": "720301",
+    "city": "連江縣"
+  },
+  {
+    "name": "私立光華高商進修學校",
+    "stage": "high school",
+    "code": "011C71",
+    "city": "新北市"
+  },
+  {
+    "name": "私立南華高中進修學校",
+    "stage": "high school",
+    "code": "351B09",
+    "city": "臺北市"
+  },
+  {
+    "name": "私立志仁中學進修學校",
+    "stage": "high school",
+    "code": "361B09",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立臺東專科學校附設高級農工職業進修學校",
+    "stage": "high school",
+    "code": "140401",
+    "city": "臺東縣"
+  },
+  {
+    "name": "國立臺東專科學校附設高職部",
+    "stage": "high school",
+    "code": "140401",
+    "city": "臺東縣"
+  },
+  {
+    "name": "國立臺灣戲曲學院附設高職部",
+    "stage": "high school",
+    "code": "400419",
+    "city": "臺北市"
+  },
+  {
+    "name": "敦品中學",
+    "stage": "high school",
+    "code": "03C301",
+    "city": "桃園市"
+  },
+  {
+    "name": "誠正中學",
+    "stage": "high school",
+    "code": "04C301",
+    "city": "新竹縣"
+  },
+  {
+    "name": "勵志中學",
+    "stage": "high school",
+    "code": "07C301",
+    "city": "彰化縣"
+  },
+  {
+    "name": "明陽中學",
+    "stage": "high school",
+    "code": "12C301",
+    "city": "高雄市"
+  },
+  {
+    "name": "中正國防幹部預備學校",
+    "stage": "high school",
+    "code": "12M301",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立政治大學",
+    "stage": "college",
+    "code": "1",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立清華大學",
+    "stage": "college",
+    "code": "2",
+    "city": "新竹市"
+  },
+  {
+    "name": "國立臺灣大學",
+    "stage": "college",
+    "code": "3",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立臺灣師範大學",
+    "stage": "college",
+    "code": "4",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立成功大學",
+    "stage": "college",
+    "code": "5",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立中興大學",
+    "stage": "college",
+    "code": "6",
+    "city": "臺中市"
+  },
+  {
+    "name": "國立陽明交通大學",
+    "stage": "college",
+    "code": "7",
+    "city": "新竹市"
+  },
+  {
+    "name": "國立中央大學",
+    "stage": "college",
+    "code": "8",
+    "city": "桃園市"
+  },
+  {
+    "name": "國立中山大學",
+    "stage": "college",
+    "code": "9",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立臺灣海洋大學",
+    "stage": "college",
+    "code": "12",
+    "city": "基隆市"
+  },
+  {
+    "name": "國立中正大學",
+    "stage": "college",
+    "code": "13",
+    "city": "嘉義縣"
+  },
+  {
+    "name": "國立高雄師範大學",
+    "stage": "college",
+    "code": "14",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立彰化師範大學",
+    "stage": "college",
+    "code": "15",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立臺北大學",
+    "stage": "college",
+    "code": "17",
+    "city": "新北市"
+  },
+  {
+    "name": "國立嘉義大學",
+    "stage": "college",
+    "code": "18",
+    "city": "嘉義市"
+  },
+  {
+    "name": "國立高雄大學",
+    "stage": "college",
+    "code": "19",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立東華大學",
+    "stage": "college",
+    "code": "20",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "國立暨南國際大學",
+    "stage": "college",
+    "code": "21",
+    "city": "南投縣"
+  },
+  {
+    "name": "國立臺灣科技大學",
+    "stage": "college",
+    "code": "22",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立雲林科技大學",
+    "stage": "college",
+    "code": "23",
+    "city": "雲林縣"
+  },
+  {
+    "name": "國立屏東科技大學",
+    "stage": "college",
+    "code": "24",
+    "city": "屏東縣"
+  },
+  {
+    "name": "國立臺北科技大學",
+    "stage": "college",
+    "code": "25",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立臺北藝術大學",
+    "stage": "college",
+    "code": "28",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立臺灣藝術大學",
+    "stage": "college",
+    "code": "29",
+    "city": "新北市"
+  },
+  {
+    "name": "國立臺東大學",
+    "stage": "college",
+    "code": "30",
+    "city": "臺東縣"
+  },
+  {
+    "name": "國立宜蘭大學",
+    "stage": "college",
+    "code": "31",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "國立聯合大學",
+    "stage": "college",
+    "code": "32",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "國立虎尾科技大學",
+    "stage": "college",
+    "code": "33",
+    "city": "雲林縣"
+  },
+  {
+    "name": "國立臺南藝術大學",
+    "stage": "college",
+    "code": "35",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立臺南大學",
+    "stage": "college",
+    "code": "36",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立臺北教育大學",
+    "stage": "college",
+    "code": "37",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立臺中教育大學",
+    "stage": "college",
+    "code": "39",
+    "city": "臺中市"
+  },
+  {
+    "name": "國立澎湖科技大學",
+    "stage": "college",
+    "code": "42",
+    "city": "澎湖縣"
+  },
+  {
+    "name": "國立勤益科技大學",
+    "stage": "college",
+    "code": "43",
+    "city": "臺中市"
+  },
+  {
+    "name": "國立體育大學",
+    "stage": "college",
+    "code": "44",
+    "city": "桃園市"
+  },
+  {
+    "name": "國立臺北護理健康大學",
+    "stage": "college",
+    "code": "46",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立高雄餐旅大學",
+    "stage": "college",
+    "code": "47",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立金門大學",
+    "stage": "college",
+    "code": "48",
+    "city": "金門縣"
+  },
+  {
+    "name": "國立臺灣體育運動大學",
+    "stage": "college",
+    "code": "49",
+    "city": "臺中市"
+  },
+  {
+    "name": "國立臺中科技大學",
+    "stage": "college",
+    "code": "50",
+    "city": "臺中市"
+  },
+  {
+    "name": "國立臺北商業大學",
+    "stage": "college",
+    "code": "51",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立屏東大學",
+    "stage": "college",
+    "code": "52",
+    "city": "屏東縣"
+  },
+  {
+    "name": "國立高雄科技大學",
+    "stage": "college",
+    "code": "53",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立臺灣戲曲學院",
+    "stage": "college",
+    "code": "144",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立臺南護理專科學校",
+    "stage": "college",
+    "code": "221",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立臺東專科學校",
+    "stage": "college",
+    "code": "222",
+    "city": "臺東縣"
+  },
+  {
+    "name": "東海大學",
+    "stage": "college",
+    "code": "1001",
+    "city": "臺中市"
+  },
+  {
+    "name": "輔仁大學",
+    "stage": "college",
+    "code": "1002",
+    "city": "新北市"
+  },
+  {
+    "name": "東吳大學",
+    "stage": "college",
+    "code": "1003",
+    "city": "臺北市"
+  },
+  {
+    "name": "中原大學",
+    "stage": "college",
+    "code": "1004",
+    "city": "桃園市"
+  },
+  {
+    "name": "淡江大學",
+    "stage": "college",
+    "code": "1005",
+    "city": "新北市"
+  },
+  {
+    "name": "中國文化大學",
+    "stage": "college",
+    "code": "1006",
+    "city": "臺北市"
+  },
+  {
+    "name": "逢甲大學",
+    "stage": "college",
+    "code": "1007",
+    "city": "臺中市"
+  },
+  {
+    "name": "靜宜大學",
+    "stage": "college",
+    "code": "1008",
+    "city": "臺中市"
+  },
+  {
+    "name": "長庚大學",
+    "stage": "college",
+    "code": "1009",
+    "city": "桃園市"
+  },
+  {
+    "name": "元智大學",
+    "stage": "college",
+    "code": "1010",
+    "city": "桃園市"
+  },
+  {
+    "name": "中華大學",
+    "stage": "college",
+    "code": "1011",
+    "city": "新竹市"
+  },
+  {
+    "name": "大葉大學",
+    "stage": "college",
+    "code": "1012",
+    "city": "彰化縣"
+  },
+  {
+    "name": "華梵大學",
+    "stage": "college",
+    "code": "1013",
+    "city": "新北市"
+  },
+  {
+    "name": "義守大學",
+    "stage": "college",
+    "code": "1014",
+    "city": "高雄市"
+  },
+  {
+    "name": "世新大學",
+    "stage": "college",
+    "code": "1015",
+    "city": "臺北市"
+  },
+  {
+    "name": "銘傳大學",
+    "stage": "college",
+    "code": "1016",
+    "city": "臺北市"
+  },
+  {
+    "name": "實踐大學",
+    "stage": "college",
+    "code": "1017",
+    "city": "臺北市"
+  },
+  {
+    "name": "朝陽科技大學",
+    "stage": "college",
+    "code": "1018",
+    "city": "臺中市"
+  },
+  {
+    "name": "高雄醫學大學",
+    "stage": "college",
+    "code": "1019",
+    "city": "高雄市"
+  },
+  {
+    "name": "南華大學",
+    "stage": "college",
+    "code": "1020",
+    "city": "嘉義縣"
+  },
+  {
+    "name": "真理大學",
+    "stage": "college",
+    "code": "1021",
+    "city": "新北市"
+  },
+  {
+    "name": "大同大學",
+    "stage": "college",
+    "code": "1022",
+    "city": "臺北市"
+  },
+  {
+    "name": "南臺科技大學",
+    "stage": "college",
+    "code": "1023",
+    "city": "臺南市"
+  },
+  {
+    "name": "崑山科技大學",
+    "stage": "college",
+    "code": "1024",
+    "city": "臺南市"
+  },
+  {
+    "name": "嘉南藥理大學",
+    "stage": "college",
+    "code": "1025",
+    "city": "臺南市"
+  },
+  {
+    "name": "樹德科技大學",
+    "stage": "college",
+    "code": "1026",
+    "city": "高雄市"
+  },
+  {
+    "name": "慈濟大學",
+    "stage": "college",
+    "code": "1027",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "臺北醫學大學",
+    "stage": "college",
+    "code": "1028",
+    "city": "臺北市"
+  },
+  {
+    "name": "中山醫學大學",
+    "stage": "college",
+    "code": "1029",
+    "city": "臺中市"
+  },
+  {
+    "name": "龍華科技大學",
+    "stage": "college",
+    "code": "1030",
+    "city": "桃園市"
+  },
+  {
+    "name": "輔英科技大學",
+    "stage": "college",
+    "code": "1031",
+    "city": "高雄市"
+  },
+  {
+    "name": "明新科技大學",
+    "stage": "college",
+    "code": "1032",
+    "city": "新竹縣"
+  },
+  {
+    "name": "長榮大學",
+    "stage": "college",
+    "code": "1033",
+    "city": "臺南市"
+  },
+  {
+    "name": "弘光科技大學",
+    "stage": "college",
+    "code": "1034",
+    "city": "臺中市"
+  },
+  {
+    "name": "中國醫藥大學",
+    "stage": "college",
+    "code": "1035",
+    "city": "臺中市"
+  },
+  {
+    "name": "健行科技大學",
+    "stage": "college",
+    "code": "1036",
+    "city": "桃園市"
+  },
+  {
+    "name": "正修科技大學",
+    "stage": "college",
+    "code": "1037",
+    "city": "高雄市"
+  },
+  {
+    "name": "萬能科技大學",
+    "stage": "college",
+    "code": "1038",
+    "city": "桃園市"
+  },
+  {
+    "name": "玄奘大學",
+    "stage": "college",
+    "code": "1039",
+    "city": "新竹市"
+  },
+  {
+    "name": "建國科技大學",
+    "stage": "college",
+    "code": "1040",
+    "city": "彰化縣"
+  },
+  {
+    "name": "明志科技大學",
+    "stage": "college",
+    "code": "1041",
+    "city": "新北市"
+  },
+  {
+    "name": "台鋼科技大學",
+    "stage": "college",
+    "code": "1042",
+    "city": "高雄市"
+  },
+  {
+    "name": "大仁科技大學",
+    "stage": "college",
+    "code": "1043",
+    "city": "屏東縣"
+  },
+  {
+    "name": "聖約翰科技大學",
+    "stage": "college",
+    "code": "1044",
+    "city": "新北市"
+  },
+  {
+    "name": "嶺東科技大學",
+    "stage": "college",
+    "code": "1045",
+    "city": "臺中市"
+  },
+  {
+    "name": "中國科技大學",
+    "stage": "college",
+    "code": "1046",
+    "city": "臺北市"
+  },
+  {
+    "name": "中臺科技大學",
+    "stage": "college",
+    "code": "1047",
+    "city": "臺中市"
+  },
+  {
+    "name": "亞洲大學",
+    "stage": "college",
+    "code": "1048",
+    "city": "臺中市"
+  },
+  {
+    "name": "開南大學",
+    "stage": "college",
+    "code": "1049",
+    "city": "桃園市"
+  },
+  {
+    "name": "佛光大學",
+    "stage": "college",
+    "code": "1050",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "台南應用科技大學",
+    "stage": "college",
+    "code": "1051",
+    "city": "臺南市"
+  },
+  {
+    "name": "中信科技大學",
+    "stage": "college",
+    "code": "1052",
+    "city": "臺南市"
+  },
+  {
+    "name": "元培醫事科技大學",
+    "stage": "college",
+    "code": "1053",
+    "city": "新竹市"
+  },
+  {
+    "name": "景文科技大學",
+    "stage": "college",
+    "code": "1054",
+    "city": "新北市"
+  },
+  {
+    "name": "中華醫事科技大學",
+    "stage": "college",
+    "code": "1055",
+    "city": "臺南市"
+  },
+  {
+    "name": "東南科技大學",
+    "stage": "college",
+    "code": "1056",
+    "city": "新北市"
+  },
+  {
+    "name": "德明財經科技大學",
+    "stage": "college",
+    "code": "1057",
+    "city": "臺北市"
+  },
+  {
+    "name": "南開科技大學",
+    "stage": "college",
+    "code": "1060",
+    "city": "南投縣"
+  },
+  {
+    "name": "中華科技大學",
+    "stage": "college",
+    "code": "1061",
+    "city": "臺北市"
+  },
+  {
+    "name": "僑光科技大學",
+    "stage": "college",
+    "code": "1062",
+    "city": "臺中市"
+  },
+  {
+    "name": "育達科技大學",
+    "stage": "college",
+    "code": "1063",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "美和科技大學",
+    "stage": "college",
+    "code": "1064",
+    "city": "屏東縣"
+  },
+  {
+    "name": "吳鳳科技大學",
+    "stage": "college",
+    "code": "1065",
+    "city": "嘉義縣"
+  },
+  {
+    "name": "修平科技大學",
+    "stage": "college",
+    "code": "1069",
+    "city": "臺中市"
+  },
+  {
+    "name": "長庚科技大學",
+    "stage": "college",
+    "code": "1070",
+    "city": "桃園市"
+  },
+  {
+    "name": "臺北城市科技大學",
+    "stage": "college",
+    "code": "1071",
+    "city": "臺北市"
+  },
+  {
+    "name": "敏實科技大學",
+    "stage": "college",
+    "code": "1072",
+    "city": "新竹縣"
+  },
+  {
+    "name": "醒吾科技大學",
+    "stage": "college",
+    "code": "1073",
+    "city": "新北市"
+  },
+  {
+    "name": "文藻外語大學",
+    "stage": "college",
+    "code": "1075",
+    "city": "高雄市"
+  },
+  {
+    "name": "華夏科技大學",
+    "stage": "college",
+    "code": "1076",
+    "city": "新北市"
+  },
+  {
+    "name": "致理科技大學",
+    "stage": "college",
+    "code": "1078",
+    "city": "新北市"
+  },
+  {
+    "name": "康寧大學",
+    "stage": "college",
+    "code": "1079",
+    "city": "臺北市"
+  },
+  {
+    "name": "宏國德霖科技大學",
+    "stage": "college",
+    "code": "1080",
+    "city": "新北市"
+  },
+  {
+    "name": "崇右影藝科技大學",
+    "stage": "college",
+    "code": "1082",
+    "city": "基隆市"
+  },
+  {
+    "name": "台北海洋科技大學",
+    "stage": "college",
+    "code": "1083",
+    "city": "新北市"
+  },
+  {
+    "name": "亞東科技大學",
+    "stage": "college",
+    "code": "1084",
+    "city": "新北市"
+  },
+  {
+    "name": "中信金融管理學院",
+    "stage": "college",
+    "code": "1125",
+    "city": "臺南市"
+  },
+  {
+    "name": "大漢技術學院",
+    "stage": "college",
+    "code": "1148",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "南亞技術學院",
+    "stage": "college",
+    "code": "1168",
+    "city": "桃園市"
+  },
+  {
+    "name": "黎明技術學院",
+    "stage": "college",
+    "code": "1183",
+    "city": "新北市"
+  },
+  {
+    "name": "德育護理健康學院",
+    "stage": "college",
+    "code": "1185",
+    "city": "基隆市"
+  },
+  {
+    "name": "馬偕醫學院",
+    "stage": "college",
+    "code": "1195",
+    "city": "新北市"
+  },
+  {
+    "name": "法鼓文理學院",
+    "stage": "college",
+    "code": "1196",
+    "city": "新北市"
+  },
+  {
+    "name": "馬偕醫護管理專科學校",
+    "stage": "college",
+    "code": "1282",
+    "city": "臺北市"
+  },
+  {
+    "name": "仁德醫護管理專科學校",
+    "stage": "college",
+    "code": "1283",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "樹人醫護管理專科學校",
+    "stage": "college",
+    "code": "1284",
+    "city": "高雄市"
+  },
+  {
+    "name": "慈惠醫護管理專科學校",
+    "stage": "college",
+    "code": "1285",
+    "city": "屏東縣"
+  },
+  {
+    "name": "耕莘健康管理專科學校",
+    "stage": "college",
+    "code": "1286",
+    "city": "新北市"
+  },
+  {
+    "name": "敏惠醫護管理專科學校",
+    "stage": "college",
+    "code": "1287",
+    "city": "臺南市"
+  },
+  {
+    "name": "育英醫護管理專科學校",
+    "stage": "college",
+    "code": "1289",
+    "city": "高雄市"
+  },
+  {
+    "name": "聖母醫護管理專科學校",
+    "stage": "college",
+    "code": "1291",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "新生醫護管理專科學校",
+    "stage": "college",
+    "code": "1292",
+    "city": "桃園市"
+  },
+  {
+    "name": "崇仁醫護管理專科學校",
+    "stage": "college",
+    "code": "1293",
+    "city": "嘉義縣"
+  },
+  {
+    "name": "臺北市立大學",
+    "stage": "college",
+    "code": "3002",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立空中大學",
+    "stage": "college",
+    "code": "0A01",
+    "city": "新北市"
+  },
+  {
+    "name": "國立臺北科技大學附設進修學院",
+    "stage": "college",
+    "code": "0A12",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立高雄科技大學附設進修學院",
+    "stage": "college",
+    "code": "0A13",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立虎尾科技大學附設進修學院",
+    "stage": "college",
+    "code": "0A14",
+    "city": "雲林縣"
+  },
+  {
+    "name": "國立臺北商業大學附設空中進修學院",
+    "stage": "college",
+    "code": "0A17",
+    "city": "臺北市"
+  },
+  {
+    "name": "國立臺中科技大學附設空中進修學院",
+    "stage": "college",
+    "code": "0A18",
+    "city": "臺中市"
+  },
+  {
+    "name": "嶺東科技大學附設進修學院",
+    "stage": "college",
+    "code": "1A40",
+    "city": "臺中市"
+  },
+  {
+    "name": "龍華科技大學附進修學院",
+    "stage": "college",
+    "code": "1A45",
+    "city": "桃園市"
+  },
+  {
+    "name": "嘉南藥理大學附設進修學院",
+    "stage": "college",
+    "code": "1A71",
+    "city": "臺南市"
+  },
+  {
+    "name": "高雄市立空中大學",
+    "stage": "college",
+    "code": "3A01",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立新北特殊教育學校",
+    "stage": "high school",
+    "code": "013F01",
+    "city": "新北市"
+  },
+  {
+    "name": "市立啟聰學校",
+    "stage": "high school",
+    "code": "363F01",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立文山特殊教育學校",
+    "stage": "high school",
+    "code": "383F01",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立臺北特殊教育學校",
+    "stage": "high school",
+    "code": "413F01",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立啟明學校",
+    "stage": "high school",
+    "code": "413F02",
+    "city": "臺北市"
+  },
+  {
+    "name": "市立桃園特殊教育學校",
+    "stage": "high school",
+    "code": "033F01",
+    "city": "桃園市"
+  },
+  {
+    "name": "私立惠明盲校",
+    "stage": "high school",
+    "code": "061F01",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立臺中啟明學校",
+    "stage": "high school",
+    "code": "063F01",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立臺中啟聰學校",
+    "stage": "high school",
+    "code": "193F01",
+    "city": "臺中市"
+  },
+  {
+    "name": "市立臺中特殊教育學校",
+    "stage": "high school",
+    "code": "193F02",
+    "city": "臺中市"
+  },
+  {
+    "name": "國立臺南大學附屬啟聰學校",
+    "stage": "college",
+    "code": "110F01",
+    "city": "臺南市"
+  },
+  {
+    "name": "國立臺南特殊教育學校",
+    "stage": "high school",
+    "code": "210F01",
+    "city": "臺南市"
+  },
+  {
+    "name": "市立仁武特殊教育學校",
+    "stage": "high school",
+    "code": "124F01",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立楠梓特殊學校",
+    "stage": "high school",
+    "code": "543F01",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立高雄特殊教育學校",
+    "stage": "high school",
+    "code": "583F01",
+    "city": "高雄市"
+  },
+  {
+    "name": "市立成功特殊教育學校",
+    "stage": "high school",
+    "code": "593F01",
+    "city": "高雄市"
+  },
+  {
+    "name": "國立宜蘭特殊教育學校",
+    "stage": "high school",
+    "code": "020F01",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "國立新竹特殊教育學校",
+    "stage": "high school",
+    "code": "040F01",
+    "city": "新竹縣"
+  },
+  {
+    "name": "國立苗栗特殊教育學校",
+    "stage": "high school",
+    "code": "050F01",
+    "city": "苗栗縣"
+  },
+  {
+    "name": "國立和美實驗學校",
+    "stage": "high school",
+    "code": "070F01",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立彰化特殊教育學校",
+    "stage": "high school",
+    "code": "070F02",
+    "city": "彰化縣"
+  },
+  {
+    "name": "國立南投特殊教育學校",
+    "stage": "high school",
+    "code": "080F01",
+    "city": "南投縣"
+  },
+  {
+    "name": "國立雲林特殊教育學校",
+    "stage": "high school",
+    "code": "090F01",
+    "city": "雲林縣"
+  },
+  {
+    "name": "國立屏東特殊教育學校",
+    "stage": "high school",
+    "code": "130F01",
+    "city": "屏東縣"
+  },
+  {
+    "name": "國立臺東大學附屬特殊教育學校",
+    "stage": "college",
+    "code": "140F01",
+    "city": "臺東縣"
+  },
+  {
+    "name": "國立花蓮特殊教育學校",
+    "stage": "high school",
+    "code": "150F01",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "國立基隆特殊教育學校",
+    "stage": "high school",
+    "code": "170F01",
+    "city": "基隆市"
+  },
+  {
+    "name": "國立嘉義特殊教育學校",
+    "stage": "high school",
+    "code": "200F01",
+    "city": "嘉義市"
+  },
+  {
+    "name": "中華民國陸軍官校",
+    "stage": "college",
+    "code": "M001",
+    "city": "高雄市"
+  },
+  {
+    "name": "中華民國海軍官校",
+    "stage": "college",
+    "code": "M002",
+    "city": "高雄市"
+  },
+  {
+    "name": "中華民國空軍官校",
+    "stage": "college",
+    "code": "M003",
+    "city": "高雄市"
+  },
+  {
+    "name": "國防大學",
+    "stage": "college",
+    "code": "M009",
+    "city": "桃園市"
+  },
+  {
+    "name": "中央警察大學",
+    "stage": "college",
+    "code": "M066",
+    "city": "桃園市"
+  },
+  {
+    "name": "國防醫學院",
+    "stage": "college",
+    "code": "M104",
+    "city": "臺北市"
+  },
+  {
+    "name": "空軍航空技術學院",
+    "stage": "college",
+    "code": "M108",
+    "city": "高雄市"
+  },
+  {
+    "name": "陸軍專科學校",
+    "stage": "college",
+    "code": "M209",
+    "city": "桃園市"
+  },
+  {
+    "name": "臺灣警察專科學校",
+    "stage": "college",
+    "code": "M267",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市長華國際蒙特梭利實驗教育機構",
+    "stage": "high school",
+    "code": "311J01",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市昶心蒙特梭利實驗教育機構",
+    "stage": "high school",
+    "code": "311J02",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市瓦嘉諾娃實驗教育機構",
+    "stage": "high school",
+    "code": "311J03",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市新主流實驗教育機構",
+    "stage": "high school",
+    "code": "321J01",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市華砇國際數位實驗教育機構",
+    "stage": "high school",
+    "code": "321J02",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市台北法國實驗教育機構",
+    "stage": "high school",
+    "code": "321J03",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市濯亞國際學院實驗教育機構",
+    "stage": "high school",
+    "code": "331J01",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市無界塾實驗教育機構",
+    "stage": "high school",
+    "code": "331J02",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市光禾實驗教育協會臺北市小實光實驗教育機構",
+    "stage": "high school",
+    "code": "331J04",
+    "city": "臺北市"
+  },
+  {
+    "name": "陪伴者兒少生涯教育協會臺北市陪伴者實驗教育機構",
+    "stage": "high school",
+    "code": "331J05",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市樂之學苑實驗教育機構",
+    "stage": "high school",
+    "code": "331J06",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市宸恩實驗教育機構",
+    "stage": "high school",
+    "code": "331J07",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市滿兒圓蒙特梭利實驗教育機構",
+    "stage": "high school",
+    "code": "331J08",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市5IN實驗教育機構",
+    "stage": "high school",
+    "code": "331J09",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市青禾華德福實驗教育機構",
+    "stage": "high school",
+    "code": "341J01",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市羽白群學實驗教育機構",
+    "stage": "high school",
+    "code": "341J03",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市身生實驗教育機構",
+    "stage": "high school",
+    "code": "341J04",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市影視音實驗教育機構",
+    "stage": "high school",
+    "code": "351J01",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市史代納實驗教育機構",
+    "stage": "high school",
+    "code": "351J02",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市VIS世界改造實驗教育機構",
+    "stage": "high school",
+    "code": "351J03",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市新視野實驗教育機構",
+    "stage": "high school",
+    "code": "351J04",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市華藏實驗教育機構",
+    "stage": "high school",
+    "code": "371J01",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市珍古德實驗教育機構",
+    "stage": "high school",
+    "code": "371J02",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市愛因思卡實驗教育機構",
+    "stage": "high school",
+    "code": "371J03",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市同心華德福實驗教育機構",
+    "stage": "high school",
+    "code": "381J01",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市昱光華德福實驗教育機構",
+    "stage": "high school",
+    "code": "381J02",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市學學實驗教育機構",
+    "stage": "high school",
+    "code": "401J01",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市哈柏露塔實驗教育機構",
+    "stage": "high school",
+    "code": "401J02",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市旭日實驗教育機構",
+    "stage": "high school",
+    "code": "401J03",
+    "city": "臺北市"
+  },
+  {
+    "name": "財團法人基督教聖道兒少福利基金會臺北市葉學堂實驗教育機構",
+    "stage": "high school",
+    "code": "421J01",
+    "city": "臺北市"
+  },
+  {
+    "name": "臺北市關渡華砇實驗教育機構",
+    "stage": "high school",
+    "code": "421J02",
+    "city": "臺北市"
+  },
+  {
+    "name": "新北市籌設森林小學期前教學研究實驗教育機構",
+    "stage": "high school",
+    "code": "011J01",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市汗得建築工事實驗教育機構",
+    "stage": "high school",
+    "code": "011J04",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市原聲國際學院實驗教育機構",
+    "stage": "high school",
+    "code": "011J05",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市心語實驗教育機構",
+    "stage": "high school",
+    "code": "011J08",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市路亞實驗教育機構",
+    "stage": "high school",
+    "code": "011J09",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市翰科實驗教育機構",
+    "stage": "high school",
+    "code": "011J10",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市臺灣瑟谷實驗教育機構",
+    "stage": "high school",
+    "code": "011J11",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市新惠佑蒙特梭利實驗教育機構",
+    "stage": "high school",
+    "code": "011J12",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市仰望實驗教育機構",
+    "stage": "high school",
+    "code": "011J13",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市Future實驗教育機構",
+    "stage": "high school",
+    "code": "011J15",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市TCS探索未來國際實驗教育機構",
+    "stage": "high school",
+    "code": "011J16",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市創生藝文實驗教育機構",
+    "stage": "high school",
+    "code": "011J17",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市愛德實驗教育機構",
+    "stage": "high school",
+    "code": "011J18",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市路德實驗教育機構",
+    "stage": "high school",
+    "code": "011J19",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市中信國際實驗教育機構",
+    "stage": "high school",
+    "code": "011J20",
+    "city": "新北市"
+  },
+  {
+    "name": "新北市夏哲森實驗教育機構",
+    "stage": "high school",
+    "code": "011J21",
+    "city": "新北市"
+  },
+  {
+    "name": "桃園市諾瓦實驗教育機構",
+    "stage": "high school",
+    "code": "031J01",
+    "city": "桃園市"
+  },
+  {
+    "name": "桃園市有得實驗教育機構",
+    "stage": "high school",
+    "code": "031J02",
+    "city": "桃園市"
+  },
+  {
+    "name": "桃園市趣創者國際實驗教育機構",
+    "stage": "high school",
+    "code": "031J03",
+    "city": "桃園市"
+  },
+  {
+    "name": "桃園市原來學苑實驗教育機構",
+    "stage": "high school",
+    "code": "031J04",
+    "city": "桃園市"
+  },
+  {
+    "name": "臺中市海聲華德福實驗教育機構",
+    "stage": "high school",
+    "code": "061J01",
+    "city": "臺中市"
+  },
+  {
+    "name": "臺中市楓樹腳實驗教育機構",
+    "stage": "high school",
+    "code": "061J02",
+    "city": "臺中市"
+  },
+  {
+    "name": "臺中市善美真華德福實驗教育機構",
+    "stage": "high school",
+    "code": "061J03",
+    "city": "臺中市"
+  },
+  {
+    "name": "臺中市道禾實驗教育機構",
+    "stage": "high school",
+    "code": "191J01",
+    "city": "臺中市"
+  },
+  {
+    "name": "臺中市迦美地華德福實驗教育機構",
+    "stage": "high school",
+    "code": "191J02",
+    "city": "臺中市"
+  },
+  {
+    "name": "臺中市澴宇蒙特梭利實驗教育機構",
+    "stage": "high school",
+    "code": "191J03",
+    "city": "臺中市"
+  },
+  {
+    "name": "臺中市秋穗實驗教育機構",
+    "stage": "high school",
+    "code": "191J05",
+    "city": "臺中市"
+  },
+  {
+    "name": "臺南市BANYAN國際實驗教育機構",
+    "stage": "high school",
+    "code": "211J01",
+    "city": "臺南市"
+  },
+  {
+    "name": "臺南市上華蒙特梭利實驗教育機構",
+    "stage": "high school",
+    "code": "211J02",
+    "city": "臺南市"
+  },
+  {
+    "name": "臺南市中信國際實驗教育機構",
+    "stage": "high school",
+    "code": "211J03",
+    "city": "臺南市"
+  },
+  {
+    "name": "臺南市哈佛蒙特梭利實驗教育機構",
+    "stage": "high school",
+    "code": "211J04",
+    "city": "臺南市"
+  },
+  {
+    "name": "臺南市鴻仁國際漢學書院實驗教育機構",
+    "stage": "high school",
+    "code": "211J05",
+    "city": "臺南市"
+  },
+  {
+    "name": "臺南市心潔蒙特梭利實驗教育機構",
+    "stage": "high school",
+    "code": "211J06",
+    "city": "臺南市"
+  },
+  {
+    "name": "高雄市國際心教育實驗教育機構",
+    "stage": "high school",
+    "code": "121J02",
+    "city": "高雄市"
+  },
+  {
+    "name": "高雄市南海月光實驗教育機構",
+    "stage": "high school",
+    "code": "121J03",
+    "city": "高雄市"
+  },
+  {
+    "name": "高雄市野人華德福實驗教育機構",
+    "stage": "high school",
+    "code": "541J01",
+    "city": "高雄市"
+  },
+  {
+    "name": "高雄市麗澤品格實驗教育機構",
+    "stage": "high school",
+    "code": "551J01",
+    "city": "高雄市"
+  },
+  {
+    "name": "高雄市創造蒙特梭利實驗教育機構",
+    "stage": "high school",
+    "code": "551J02",
+    "city": "高雄市"
+  },
+  {
+    "name": "高雄市但以理基督書院實驗教育機構",
+    "stage": "high school",
+    "code": "581J01",
+    "city": "高雄市"
+  },
+  {
+    "name": "新竹縣照海華德福實驗教育機構",
+    "stage": "high school",
+    "code": "041J03",
+    "city": "新竹縣"
+  },
+  {
+    "name": "新竹縣恩激優實驗教育機構",
+    "stage": "high school",
+    "code": "041J05",
+    "city": "新竹縣"
+  },
+  {
+    "name": "新竹縣麗水華德福實驗教育機構",
+    "stage": "high school",
+    "code": "041J06",
+    "city": "新竹縣"
+  },
+  {
+    "name": "新竹縣道禾實驗教育機構",
+    "stage": "high school",
+    "code": "041J07",
+    "city": "新竹縣"
+  },
+  {
+    "name": "新竹縣毅宇蒙特梭利實驗教育機構",
+    "stage": "high school",
+    "code": "041J08",
+    "city": "新竹縣"
+  },
+  {
+    "name": "新竹縣康乃薾國際實驗教育機構",
+    "stage": "high school",
+    "code": "041J09",
+    "city": "新竹縣"
+  },
+  {
+    "name": "新竹縣布朗康米紐斯實驗教育機構",
+    "stage": "high school",
+    "code": "041J10",
+    "city": "新竹縣"
+  },
+  {
+    "name": "彰化縣愛因斯坦實驗教育機構",
+    "stage": "high school",
+    "code": "071J01",
+    "city": "彰化縣"
+  },
+  {
+    "name": "彰化縣雅典娜華德福實驗教育機構",
+    "stage": "high school",
+    "code": "071J02",
+    "city": "彰化縣"
+  },
+  {
+    "name": "彰化縣賽德實驗教育機構",
+    "stage": "high school",
+    "code": "071J03",
+    "city": "彰化縣"
+  },
+  {
+    "name": "彰化縣基石華德福實驗教育機構",
+    "stage": "high school",
+    "code": "071J04",
+    "city": "彰化縣"
+  },
+  {
+    "name": "南投縣復臨實驗教育機構",
+    "stage": "high school",
+    "code": "081J01",
+    "city": "南投縣"
+  },
+  {
+    "name": "南投縣森優實驗教育機構",
+    "stage": "high school",
+    "code": "081J02",
+    "city": "南投縣"
+  },
+  {
+    "name": "南投縣均頭實驗教育機構",
+    "stage": "high school",
+    "code": "081J04",
+    "city": "南投縣"
+  },
+  {
+    "name": "南投縣親愛實驗教育機構",
+    "stage": "high school",
+    "code": "081J05",
+    "city": "南投縣"
+  },
+  {
+    "name": "南投縣原聲國際學院實驗教育機構",
+    "stage": "high school",
+    "code": "081J06",
+    "city": "南投縣"
+  },
+  {
+    "name": "南投縣同德國際實驗教育機構",
+    "stage": "high school",
+    "code": "081J07",
+    "city": "南投縣"
+  },
+  {
+    "name": "雲林縣湖山承淨書院實驗教育機構",
+    "stage": "high school",
+    "code": "091J02",
+    "city": "雲林縣"
+  },
+  {
+    "name": "臺東縣奇點國際實驗教育機構",
+    "stage": "high school",
+    "code": "141J01",
+    "city": "臺東縣"
+  },
+  {
+    "name": "花蓮縣波斯頓國際實驗教育機構",
+    "stage": "high school",
+    "code": "151J01",
+    "city": "花蓮縣"
+  },
+  {
+    "name": "宜蘭縣聯合國際實驗教育機構",
+    "stage": "high school",
+    "code": "021J01",
+    "city": "宜蘭縣"
+  },
+  {
+    "name": "新竹市心築實驗教育機構",
+    "stage": "high school",
+    "code": "181J01",
+    "city": "新竹市"
+  }
+]
